@@ -6,3 +6,4 @@ yarn-error.log
 !.eslintrc
 !.gitignore
 !.npmignore
+!.travis.yml
