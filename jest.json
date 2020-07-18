@@ -1,6 +1,5 @@
 {
     "automock": false,
-    "browser": false,
     "bail": false,
     "collectCoverage": true,
     "errorOnDeprecated": true,

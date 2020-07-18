@@ -7,9 +7,9 @@
     "rxjs": "^6.0.0"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^7.5.0",
     "eslint-config-google": "^0.14.0",
-    "jest": "^25.1.0"
+    "jest": "^26.1.0"
   },
   "scripts": {
     "lint": "eslint -c .eslintrc src/",
