@@ -3,6 +3,7 @@ node_modules
 coverage
 yarn-error.log
 
+!.github/
 !.eslintrc
 !.gitignore
 !.npmignore
