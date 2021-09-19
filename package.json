@@ -2,7 +2,7 @@
   "name": "redux-epic-utils",
   "version": "0.0.0",
   "main": "src/lib.js",
-  "license": "private",
+  "license": "MIT",
   "dependencies": {
     "redux-observable": "^1.0.0",
     "rxjs": "^6.0.0"
